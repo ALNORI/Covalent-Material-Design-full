@@ -1,4 +1,11 @@
+
+
+
 # Covalent QuickStart
+
+__JUST NPM INSTALL__
+
+OR
 
 Quickstart App with @covalent packages
 
